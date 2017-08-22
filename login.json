@@ -1,4 +1,5 @@
 {
 	"username" : "hasanFarooq",
-	"password" : "hahaha"
+	"password" : "hahaha",
+	"usingGoogleOAuth" : false
 }
